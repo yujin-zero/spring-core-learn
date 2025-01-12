@@ -38,7 +38,7 @@ public class Order {
     public String toString() {
         return "Order{" +
                 "memberId= " + memberId +
-                ", itemName= " + itemPrice +
+                ", itemName= " + itemName +
                 ", itemPrice= " + itemPrice +
                 ", discountPrice= " + discountPrice +
                 "}";
